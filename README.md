@@ -11,23 +11,16 @@ URL:
 # Preview
 
 <img src="print2.png" width=378 />
-<img src="print.gif" />
+
 
 # Fully customizable
 
-<img src="print3.png" width=678 />
+
 
 # How to run
 
-install dependencies <br/>
-`yarn` <br/>
-run locally <br/>
-`yarn dev`
+
 
 # Technologies
 
-- Vite
-- React
-- Styled-components
-- Typescript
-- Zustand
+-
