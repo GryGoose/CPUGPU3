@@ -6,7 +6,7 @@ An integration to monitor CPU and GPU information (load and temperature) with we
 
 # Use in Kraken web integration
 
-URL: 
+URL: https://github.com/GryGoose/CPUGPU3.git
 
 # Preview
 
