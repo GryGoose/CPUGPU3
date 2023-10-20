@@ -22,5 +22,3 @@ URL:
 
 
 # Technologies
-
-
